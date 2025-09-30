@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Wibutime",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "HentaiVN",
+      "author": "Wibutime",
+      "path": "https://raw.githubusercontent.com/Wibutime/vbook-ext-gg/master/hentaivn/plugin.zip",
+      "version": 2.2,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://hentaivn.su",
+      "icon": "https://raw.githubusercontent.com/Wibutime/vbook-ext-gg/master/hentaivn/icon.png",
+      "description": "Đọc truyện trên trang HentaiVN",
+      "tag": "nsfw"
+    }
+  ]
+}
