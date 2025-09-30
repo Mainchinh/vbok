@@ -20,7 +20,7 @@
       "name": "Blog Truyện",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/Mainchinh/Vbook/master/blogtruyen/plugin.zip",
-      "version": 7,
+      "version": 1,
       "type": "comic",
       "locale": "vi_VN",
       "source": "https://blogtruyen.vn",
