@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "name": "HentaiVN",
+    "name": "Blog Truyện",
     "author": "vBook",
-    "version": 2.2,
-    "source": "https://hentaivn.su",
-    "regexp": "(www.)?hen(tai)?(vn|ayame|hvn).[a-z]+/\\d+-[^/]+.html$",
-    "description": "Đọc truyện trên trang HentaiVN",
+    "version": 7,
+    "source": "https://blogtruyen.vn",
+    "regexp": "(www.)?(m\\.)?blogtruyen.vn/\\d+/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang Blog Truyện",
     "locale": "vi_VN",
     "language": "javascript",
-    "type": "comic",
-    "tag": "nsfw"
+    "type": "comic"
   },
   "script": {
     "home": "home.js",
